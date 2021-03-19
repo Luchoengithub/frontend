@@ -1,0 +1,2 @@
+Hash SHA256 del archivo archivo02.txt:
+96 d8 03 3f 82 53 13 ae 8b ca 4d 78 69 38 28 e0 3f cd 46 d7 e4 f3 bc 43 92 ef f6 fc 86 53 10 10
